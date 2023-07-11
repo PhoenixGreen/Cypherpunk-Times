@@ -13,7 +13,6 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Social media followers across all platforms and accounts - 000
 
 
-
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
 Billing Breakdown for Editor Role (max billable 10hrs per week).
@@ -25,16 +24,6 @@ F = Featured Image, PR = Proof Reading, Editing and excerpt text, AC = Aditional
 SM = Organic Social media posts and promotion, PC = Podcast
 EXAMPLE F=0.5,PR=0.5 Total = 1.0 hours
 
-
-## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
-Reporting structure: Title - Link - (Editor work = aproximatly 30mins for each upload, edit and entering text)
-* 
-
-## Videos - https://www.youtube.com/@cypherpunktimes
-Reporting structure: Content date - Title - Link - (Videos and live streams created for the cypherpunk times youtube channel 
-are capped at 4 to 6 hours. These videos will only be produced when content is not suitable for the main Decred youtube channel.)
-* 
-
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date - - (Editor work = aproximatly 1hr for each campaign)
 * 
@@ -45,6 +34,15 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 * Communications - ??
 * Creator onboarding - ??
 * Website edits and admin - ??
+
+## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
+Reporting structure: Title - Link - (Editor work = aproximatly 30mins for each upload, edit and entering text)
+* 
+
+## Videos - https://www.youtube.com/@cypherpunktimes
+Reporting structure: Content date - Title - Link - (Videos and live streams created for the cypherpunk times youtube channel 
+are capped at 4 to 6 hours. These videos will only be produced when content is not suitable for the main Decred youtube channel.)
+* 
 
 ## Import content
 Reporting structure: Content date - Title - Link - Editor work and hours
