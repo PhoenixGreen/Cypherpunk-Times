@@ -24,9 +24,6 @@ F = Featured Image, PR = Proof Reading, Editing and excerpt text, AC = Aditional
 SM = Organic Social media posts and promotion, PC = Podcast
 EXAMPLE F=0.5,PR=0.5 Total = 1.0 hours
 
-## Social Media Campaigns 
-Reporting Structure: Post Title – Campaign Type – Start Date – End Date - - (Editor work = aproximatly 1hr for each campaign)
-* 
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
@@ -34,6 +31,10 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 * Communications - ??
 * Creator onboarding - ??
 * Website edits and admin - ??
+
+## Social Media Campaigns 
+Reporting Structure: Post Title – Campaign Type – Start Date – End Date - - (Editor work = aproximatly 1hr for each campaign)
+* 
 
 ## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
 Reporting structure: Title - Link - (Editor work = aproximatly 30mins for each upload, edit and entering text)
