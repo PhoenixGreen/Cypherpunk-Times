@@ -26,12 +26,17 @@ SM = Organic Social media posts and promotion, PC = Podcast
 EXAMPLE F=0.5,PR=0.5 Total = 1.0 hours
 
 
-## Podcasts and videos - https://podcasters.spotify.com/pod/cypherpunktimes, https://www.youtube.com/@cypherpunktimes
-Reporting structure: Content date - Title - Link - Editor work and hours
+## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
+Reporting structure: Title - Link - (Editor work = aproximatly 30mins for each upload, edit and entering text)
+* 
+
+## Videos - https://www.youtube.com/@cypherpunktimes
+Reporting structure: Content date - Title - Link - (Videos and live streams created for the cypherpunk times youtube channel 
+are capped at 4 to 6 hours. These videos will only be produced when content is not suitable for the main Decred youtube channel.)
 * 
 
 ## Social Media Campaigns 
-Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+Reporting Structure: Post Title – Campaign Type – Start Date – End Date - - (Editor work = aproximatly 1hr for each campaign)
 * 
 
 ## Site Admin
