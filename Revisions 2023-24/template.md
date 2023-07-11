@@ -1,0 +1,97 @@
+# ?MONTH? 2023 Revisions
+Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
+
+# Cypherpunk Times Engagement Stats for this month:
+* Total number of articles on Decred Magazine -  000
+* Newsletter subscribers - 00
+* New Cypherpunk Times Posts and Newsletters sent - 00
+* Active Social media campaigns - 0
+* Completed Social media campaigns - 0
+* Social media posts - 00
+* Likes - 000
+* Re-tweets - 00
+* Social media followers across all platforms and accounts - 000
+
+
+
+# Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
+
+Billing Breakdown for Editor Role (max billable 10hrs per week).
+This section is to identify the workload of the editor role and approximate time each task takes.
+
+This year, I'll aim to itemise the editors work to help with future onboarding of editors and to add transparency. 
+Editor work and hours codes: 
+F = Featured Image, PR = Proof Reading, Editing and excerpt text, AC = Aditional communication 
+SM = Organic Social media posts and promotion, PC = Podcast
+EXAMPLE F=0.5,PR=0.5 Total = 1.0 hours
+
+
+## Podcasts and videos - https://podcasters.spotify.com/pod/cypherpunktimes, https://www.youtube.com/@cypherpunktimes
+Reporting structure: Content date - Title - Link - Editor work and hours
+* 
+
+## Social Media Campaigns 
+Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* 
+
+## Site Admin
+Reporting Structure: Completion Date - Work undertaken - Link or detailed description
+* Website backup - ??LINK?? - This work is now being handle by Bee and bochinchero
+* Communications - ??
+* Creator onboarding - ??
+* Website edits and admin - ??
+
+## Import content
+Reporting structure: Content date - Title - Link - Editor work and hours
+* 
+
+# Phoenix Green - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# OfficialCryptos - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# João Paulo Sant’Anna - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Blockchain Jew - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Richard Red - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Tivra - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Hassan Maishera - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Hatt Hawkins - SubContractor Technical Editor:
+Reporting structure: Content date - Content Title - Link - Billing Type (Technical Editor / writer - Medium or Long)
+* 
+
+# Jay - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Applesaucesome - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Kozel - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Karamble - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+
+
