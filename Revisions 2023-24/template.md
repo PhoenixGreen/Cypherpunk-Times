@@ -13,6 +13,14 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Social media followers across all platforms and accounts - 000
 
 
+# All Platforms for this publication:
+* https://www.cypherpunktimes.com
+* https://www.facebook.com/cypherpunktimes
+* https://twitter.com/cypherpunktimes, https://twitter.com/decredmagazine, https://twitter.com/DecredSociety
+* https://podcasters.spotify.com/pod/cypherpunktimes
+* https://www.youtube.com/@cypherpunktimes
+
+
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
 Billing Breakdown for Editor Role (max billable 10hrs per week).
