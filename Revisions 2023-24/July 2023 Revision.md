@@ -54,6 +54,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date - 
 * How did we get here? A brief history of decentralization - 6 month evergreen - Jul 17 2023 - Jan 13 2024 - (editor = 0.5hrs)
 * Top banks to welcome blockchain interoperability with SWIFT - 1 month evergreen - Jul 19 - Aug 18 2023 - (editor = 0.5hrs)
 * How-To DCRDEX on Raspberry Pi with Umbrel - 12 month evergreen - Jul 20 2023 - Jul 19 2024 - (editor = 0.5hrs)
+* Crypto Evolution: Rising Above Volatility with Vision - 1 month evergreen - Jul 20 - Aug 19 2023 - (editor = 0.5hrs)
 * 
 
 ## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
