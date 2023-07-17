@@ -48,6 +48,12 @@ Editor total for this section = ??
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date - - (Editor work = aproximatly)
 * Updated the domains for active social media campaigns and deleted finished campaigns (editor = 3hrs)
 * Bison Relay wallet features - 12 month evergreen - Jul 12 2023 - Jul 11 2024 (editor = 0.5hrs)
+* Unveiling Spark: Public Testnet Launch Date confirmed - 1 month evergreen - Jul 17 - Aug 16 2023 - (editor = 0.5hrs)
+* Building a Safer Firo: MAGIC approves Security Retainer with - 1 month evergreen - Jul 19 - Aug 18 2023 - (editor = 0.5hrs)
+* Bison Relay Lightning Network Management: How to Rebalance - 6 month evergreen - Jul 17 2023 - Jan 13 2024 - (editor = 0.5hrs)
+* How did we get here? A brief history of decentralization - 6 month evergreen - Jul 17 2023 - Jan 13 2024 - (editor = 0.5hrs)
+* Top banks to welcome blockchain interoperability with SWIFT - 1 month evergreen - Jul 19 - Aug 18 2023 - (editor = 0.5hrs)
+* How-To DCRDEX on Raspberry Pi with Umbrel - 12 month evergreen - Jul 20 2023 - Jul 19 2024 - (editor = 0.5hrs)
 * 
 
 ## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
