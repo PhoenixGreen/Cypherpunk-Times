@@ -35,7 +35,7 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 * Website edits and admin - ??
 
 ## Social Media Campaigns 
-Reporting Structure: Post Title – Campaign Type – Start Date – End Date - - (Editor work = aproximatly 1hr for each campaign)
+Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * 
 
 ## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
@@ -50,6 +50,9 @@ are capped at 4 to 6 hours. These videos will only be produced when content is n
 ## Import content
 Reporting structure: Content date - Title - Link - Editor work and hours
 * 
+
+## Community Imports - Firo
+*
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
