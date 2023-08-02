@@ -26,12 +26,6 @@ Work completed during this period, including, New posts, edits, post imports, me
 Billing Breakdown for Editor Role (max billable 10hrs per week).
 This section is to identify the workload of the editor role and approximate time each task takes.
 
-This year, I'll aim to itemise the editors work to help with future onboarding of editors and to add transparency. 
-Editor work and hours codes: 
-F = Featured Image, PR = Proof Reading, Editing and excerpt text, AC = Aditional communication 
-SM = Organic Social media posts and promotion, PC = Podcast
-EXAMPLE F=0.5,PR=0.5 Total = 1.0 hours
-
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
