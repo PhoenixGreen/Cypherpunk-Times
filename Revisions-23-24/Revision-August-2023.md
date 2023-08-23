@@ -1,4 +1,4 @@
-# ?MONTH? 2023 Revisions
+# August 2023 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Cypherpunk Times Engagement Stats for this month:
@@ -27,15 +27,15 @@ Work completed during this period, including, New posts, edits, post imports, me
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
 Billing Breakdown for Editor Role (max billable 10hrs per week).
-This section is to identify the workload of the editor role and approximate time each task takes.
+This section is to identify the workload of the editor role.
 
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
 * Website backup - ??LINK?? - This work is now being handle by Bee and bochinchero
-* Communications - ??
-* Creator onboarding - ??
-* Website edits and admin - ??
+* Communications - Working with Firo community to bring content to the platform. Asked DGB and ZEC communities about content opportunities. spoke to Richard Red about an article series on DAO structures, this looks very promising.
+* Creator onboarding - @tallamericano is now producing two articles a month for the site. 
+* Website edits and admin - Continue to update graphics, links and text to fit the new site. Each new project now has it's own section and where appropriate so do individual products.
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
