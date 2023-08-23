@@ -11,6 +11,9 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Likes - 000
 * Re-tweets - 00
 * Social media followers across all platforms and accounts - 000
+* @decredsociety twitter followers - 000
+* @decredmagazine twitter followers - 000
+* @cypherpunktimes twitter followers - 000
 
 
 # All Platforms for this publication:
@@ -36,15 +39,6 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
-* 
-
-## Podcasts - https://podcasters.spotify.com/pod/cypherpunktimes
-Reporting structure: Title - Link - (Editor work = aproximatly 30mins for each upload, edit and entering text)
-* 
-
-## Videos - https://www.youtube.com/@cypherpunktimes
-Reporting structure: Content date - Title - Link - (Videos and live streams created for the cypherpunk times youtube channel 
-are capped at 4 to 6 hours. These videos will only be produced when content is not suitable for the main Decred youtube channel.)
 * 
 
 ## Import content
@@ -78,23 +72,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
-# Hassan Maishera - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Hatt Hawkins - SubContractor Technical Editor:
-Reporting structure: Content date - Content Title - Link - Billing Type (Technical Editor / writer - Medium or Long)
-* 
-
-# Jay - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # Applesaucesome - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Kozel - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
