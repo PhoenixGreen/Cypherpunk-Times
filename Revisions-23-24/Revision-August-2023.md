@@ -49,6 +49,11 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Is it time to overcome traditional Social Media? - 6 month evergreen - Aug 29 2023 - Feb 25 2024
 * Decred Decentralized Exchange: Creating a Fidelity Bond - 12 month evergreen - Sep 3 2023 - Sep 2 2024
 * Decred Dex Standalone: Atomic-Swaps in a Web Browser - 12 month evergreen - Sep 4 2023 - Sep 3 2024
+* The Ripple Effect on Cryptocurrency Regulation - 1 month evergreen - Sep 5 - Oct 5 2023
+* Decred's innovation train - 12 month evergreen - Sep 6 2023 - Sep 5 2024
+* DEX island - 12 month evergreen - Sep 7 2023 - Sep 6 2024
+* Using Market Maker Bots on Decentralised Exchange: First Look - 1 month evergreen - Sep 8 - Oct 8 2023
+* Decred vs Ethereum: Staking on the future - 12 month evergreen - Sep 11 2023 - Sep 10 2024
 * 
 
 ## Import content
