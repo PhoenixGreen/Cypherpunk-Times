@@ -39,6 +39,11 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred Journal – July 2023 - 1 month evergreen - Aug 23 - Sep 22 2023
+* What are simple swaps? - 12 month evergreen - Aug 23 2023 - Aug 22 2024
+* Everything you need to know about the “everything app” - 6 month evergreen - Aug 23 2023 - Feb 19 2024
+* Brazilian digital currency is announced! Meet DREX - 1 month evergreen - Aug 23 - Sep 22 2023
+* Privacy Meets Tokenization: FIRO's Spark Assets - 1 month evergreen - Aug 23 - Sep 22 2023
 * 
 
 ## Import content
