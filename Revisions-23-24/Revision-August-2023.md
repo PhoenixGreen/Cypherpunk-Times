@@ -54,6 +54,10 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * DEX island - 12 month evergreen - Sep 7 2023 - Sep 6 2024
 * Using Market Maker Bots on Decentralised Exchange: First Look - 1 month evergreen - Sep 8 - Oct 8 2023
 * Decred vs Ethereum: Staking on the future - 12 month evergreen - Sep 11 2023 - Sep 10 2024
+* SEC approves BlackRock BTC ETF proposal - 1 month evergreen - Sep 15 - Oct 15 2023
+* Decred 1.8.0 - The Forkening - 1 month evergreen - Sep 25 - Oct 25 2023
+* Crypto Integrations - Cake Wallet - 1 month evergreen - Sep 25 - Oct 25 2023
+* Lelantus Spark Testnet Launched - 1 month evergreen - Aug 23 - Sep 22 2023
 * 
 
 ## Import content
