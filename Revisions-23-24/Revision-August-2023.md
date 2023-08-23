@@ -44,6 +44,11 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Everything you need to know about the “everything app” - 6 month evergreen - Aug 23 2023 - Feb 19 2024
 * Brazilian digital currency is announced! Meet DREX - 1 month evergreen - Aug 23 - Sep 22 2023
 * Privacy Meets Tokenization: FIRO's Spark Assets - 1 month evergreen - Aug 23 - Sep 22 2023
+* Tutorial: How to Solo Mine Decred's Upcoming Blake3 Algorithm - 1 month evergreen - Aug 23 - Sep 22 2023
+* DeFi, Decred, and the Potential to Disrupt Traditional Banking - 6 month evergreen - Aug 29 2023 - Feb 25 2024
+* Is it time to overcome traditional Social Media? - 6 month evergreen - Aug 29 2023 - Feb 25 2024
+* Decred Decentralized Exchange: Creating a Fidelity Bond - 12 month evergreen - Sep 3 2023 - Sep 2 2024
+* Decred Dex Standalone: Atomic-Swaps in a Web Browser - 12 month evergreen - Sep 4 2023 - Sep 3 2024
 * 
 
 ## Import content
