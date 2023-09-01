@@ -2,7 +2,7 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Cypherpunk Times Engagement Stats for this month:
-* Total number of articles on Decred Magazine -  000
+* Total number of articles on Cypherpunk Times -  000
 * Newsletter subscribers - 00
 * New Cypherpunk Times Posts and Newsletters sent - 00
 * Active Social media campaigns - 0
