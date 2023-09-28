@@ -38,6 +38,8 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Central Bank Digital Currencies: Why you should be concerned - 6 month evergreen - Sep 29 2023 - Mar 27 2024
+* Decred Journal – August 2023 - 2 week blast - Oct 1 - Oct 15 2023
 * 
 
 ## Community Inports - Decred
