@@ -27,7 +27,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
 Billing Breakdown for Editor Role (max billable 10hrs per week).
-This section is to identify the workload of the editor role and approximate time each task takes.
+This document is to identify the workload of the editor role.
 
 
 ## Site Admin
@@ -41,8 +41,8 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * 
 
-## Import content
-Reporting structure: Content date - Title - Link - Editor work and hours
+## Community Inports - Decred
+Reporting structure: Content date - Title - Link - Editor work
 * 
 
 ## Community Imports - Firo
@@ -79,6 +79,14 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 # Karamble - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
+
+# Tallamericano - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+
+
+
 
 
 
