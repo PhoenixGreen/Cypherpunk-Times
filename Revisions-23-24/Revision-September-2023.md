@@ -32,10 +32,9 @@ This document is to identify the workload of the editor role.
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
-* Website backup - ??LINK?? - This work is now being handle by Bee and bochinchero
-* Communications - ??
-* Creator onboarding - ??
-* Website edits and admin - ??
+* Communications - Tallamericano is now helping to manage and produce content for the cypherpunktimes twitter account. The idea is they will work with the Vanguard group to coordinate social media efforts. 
+* Creator onboarding - I've reached out to several creators and communites to add content to CT including Dash, Siacoin, Digibyte, Zcash. Firo is still the only project actively engaging with the project. I'm aining to start bringing in content as part of the editors role, to get the ball rolling. I just need the given permissions.
+* Website edits and admin - Currently I'm putting together some design documents for theme and menu improvements
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
