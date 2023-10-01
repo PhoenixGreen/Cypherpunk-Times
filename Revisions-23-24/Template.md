@@ -2,18 +2,16 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Cypherpunk Times Engagement Stats for this month:
-* Total number of articles on Decred Magazine -  000
+* Total number of articles on Cypherpunk Time -  000
 * Newsletter subscribers - 00
 * New Cypherpunk Times Posts and Newsletters sent - 00
 * Active Social media campaigns - 0
 * Completed Social media campaigns - 0
 * Social media posts - 00
-* Likes - 000
-* Re-tweets - 00
-* Social media followers across all platforms and accounts - 000
-* @decredsociety twitter followers - 000
-* @decredmagazine twitter followers - 000
-* @cypherpunktimes twitter followers - 000
+* Social media followers across all platforms and accounts - 0000
+* @decredsociety twitter followers - 967, Tweet impressions - 0.0K, Likes - 000, Retweets - 00
+* @decredmagazine twitter followers - 481, Tweet impressions - 0.0K, - Likes - 000, Retweets - 000
+* @cypherpunktimes twitter followers - 127, Tweet impressions - 0.0K, - Likes - 000, Retweets - 000
 
 
 # All Platforms for this publication:
