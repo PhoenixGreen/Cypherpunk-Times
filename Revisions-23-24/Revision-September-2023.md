@@ -2,18 +2,16 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Cypherpunk Times Engagement Stats for this month:
-* Total number of articles on Decred Magazine -  000
-* Newsletter subscribers - 00
-* New Cypherpunk Times Posts and Newsletters sent - 00
-* Active Social media campaigns - 0
-* Completed Social media campaigns - 0
-* Social media posts - 00
-* Likes - 000
-* Re-tweets - 00
-* Social media followers across all platforms and accounts - 000
-* @decredsociety twitter followers - 000
-* @decredmagazine twitter followers - 000
-* @cypherpunktimes twitter followers - 000
+* Total number of articles on Cypherpunk Times -  539
+* Newsletter subscribers - 110
+* New Cypherpunk Times Posts and Newsletters sent - 23
+* Active Social media campaigns - 81
+* Completed Social media campaigns - 18
+* Social media posts - 263
+* Social media followers across all platforms and accounts - 0000
+* @decredsociety twitter followers - 981, Tweet impressions - 17.3K, Likes - 295, Retweets - 89
+* @decredmagazine twitter followers - 490, Tweet impressions - 15.6K, - Likes - 464, Retweets - 125
+* @cypherpunktimes twitter followers - 156, Tweet impressions - 22.0K, - Likes - 461, Retweets - 151
 
 
 # All Platforms for this publication:
@@ -42,47 +40,50 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal – August 2023 - 2 week blast - Oct 1 - Oct 15 2023
 * 
 
-## Community Inports - Decred
+## Community Imports - Decred
 Reporting structure: Content date - Title - Link - Editor work
+* Sep 3, 2023 - CPU Mining, Staking & Participation - State of the market - https://www.cypherpunktimes.com/cpu-mining-staking-participation-state-of-the-market/
+* Sep 6, 2023 - AtomicSwap refunds in DCRDEX - https://www.cypherpunktimes.com/atomicswap-refunds-in-dcrdex/
+* Sep 8, 2023 - Decred News Update - September 2023 - https://www.cypherpunktimes.com/decred-news-update-september-2023/
+* Sep 11, 2023 - Upgrading DCRDEX standalone version - https://www.cypherpunktimes.com/upgrading-dcrdex-standalone-version/
+* Sep 18, 2023 - Decred’s Blockchain Mining Revolution – Moving Blockchain Forward - https://www.cypherpunktimes.com/decreds-blockchain-mining-revolution-moving-blockchain-forward/
+* Sep 24, 2023 - Issue 64 - August 27 - September 23 2023 - https://www.cypherpunktimes.com/issue-64-august-27-september-23-2023/
+* Sep 26, 2023 - Decred Journal – August 2023 - https://www.cypherpunktimes.com/decred-journal-august-2023/
+* Sep 27, 2023 - Removing Centralisation from Crypto - https://www.cypherpunktimes.com/removing-centralisation-from-crypto/
+* Re-Post due to added video tutorial - Sep 29, 2023 - How-To DCRDEX on Raspberry Pi with Umbrel - https://www.cypherpunktimes.com/how-to-dcrdex-on-raspberry-pi-with-umbrel/
 * 
 
 ## Community Imports - Firo
-*
-
-# Phoenix Green - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 10, 2023 - Stay Private, Stay Secure: FIRO's Spark Addresses - https://www.cypherpunktimes.com/stay-private-stay-secure-firos-spark-addresses/
+* Sep 17, 2023 - Privacy Matters: Why Financial Privacy Is Essential in Today's Digital World - https://www.cypherpunktimes.com/privacy-matters-why-financial-privacy-is-essential-in-todays-digital-world/
+* Sep 21, 2023 - Central Bank Digital Currencies: Why you should be concerned - https://www.cypherpunktimes.com/central-bank-digital-currencies-why-you-should-be-concerned-2/
 * 
 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 14, 2023 - Buying decred is like hitting the bullseye - https://www.cypherpunktimes.com/buying-decred-is-like-hitting-the-bullseye/
+* Sep 29, 2023 - Unlimited Potential - https://www.cypherpunktimes.com/unlimited-potential/
 * 
 
 # João Paulo Sant’Anna - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 12, 2023 - Brazilian Government wants new tax over crypto - https://www.cypherpunktimes.com/brazilian-government-wants-new-tax-over-crypto/
+* Sep 20, 2023 - New study shows that big investors have a positive perspective on cryptocurrencies - https://www.cypherpunktimes.com/new-study-shows-that-big-investors-have-a-positive-perspective-on-cryptocurrencies/
+* Sep 23, 2023 - Lessons from the Mark Cuban hacking incident - https://www.cypherpunktimes.com/lessons-from-the-mark-cuban-hack-incident/
+* Sep 30, 2023 - Privacy matters! A features comparison - https://www.cypherpunktimes.com/privacy-matters-a-features-comparison/
 * 
 
 # Blockchain Jew - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Richard Red - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Tivra - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Applesaucesome - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Karamble - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 1, 2023 - The battle for a Spot Bitcoin ETF continues - https://www.cypherpunktimes.com/the-battle-for-a-spot-bitcoin-etf-continues/
+* Sep 15, 2023 - SIM Swap Attacks: A Growing Threat to Your Online Security - https://www.cypherpunktimes.com/sim-swap-attacks-a-growing-threat-to-your-online-security/
 * 
 
 # Tallamericano - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 8, 2023 - Cryptocurrency and Environmental Concerns: The Road to Sustainable Blockchain Solutions - https://www.cypherpunktimes.com/cryptocurrency-and-environmental-concerns-the-road-to-sustainable-blockchain-solutions/
+* Sep 17, 2023 - Cryptocurrency Adoption in Developing Countries: Promising Trends and Implications - https://www.cypherpunktimes.com/cryptocurrency-adoption-in-developing-countries-promising-trends-and-implications/
+* Sep 25, 2023 - Exploring Altcoins: Promising Cryptocurrencies Beyond Bitcoin and Ethereum - https://www.cypherpunktimes.com/exploring-altcoins-promising-cryptocurrencies-beyond-bitcoin-and-ethereum/
 * 
 
 
