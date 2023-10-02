@@ -38,6 +38,14 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Central Bank Digital Currencies: Why you should be concerned - 6 month evergreen - Sep 29 2023 - Mar 27 2024
 * Decred Journal – August 2023 - 2 week blast - Oct 1 - Oct 15 2023
+* CBDC : Exploring the Global Impact on Traditional Banking - 12 month evergreen - Sep 28 2023 - Oct 2 2024
+* How to buy your first Decred DCR? - 12 month evergreen - Sep 26 2023 - Oct 2 2024
+* Cryptopower: Golang Native Desktop & Mobile Wallet - 6 month evergreen - Sep 25 2023 - Apr 1 2024
+* Visions of a decentralised future - 12 month evergreen - Sep 25 2023 - Apr 1 2024
+* Voting on Treasury Spending in Decrediton - 12 month evergreen - Oct 11 2023 - Oct 10 2024
+* In Defense of Stability: A stable coin Comparison - 12 month evergreen - Oct 12 2023 - Oct 11 2024
+* Cypherpunk talk with Ernesto from the Dash community! - 6 month evergreen - Oct 12 2023 - Apr 9 2024
+* The battle for a Spot Bitcoin ETF continues - 1 month evergreen - Oct 16 - Nov 15 2023
 * 
 
 ## Community Imports - Decred
