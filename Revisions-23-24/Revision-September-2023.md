@@ -8,7 +8,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Active Social media campaigns - 81
 * Completed Social media campaigns - 18
 * Social media posts - 263
-* Social media followers across all platforms and accounts - 0000
+* Social media followers across all platforms and accounts - 1627
 * @decredsociety twitter followers - 981, Tweet impressions - 17.3K, Likes - 295, Retweets - 89
 * @decredmagazine twitter followers - 490, Tweet impressions - 15.6K, - Likes - 464, Retweets - 125
 * @cypherpunktimes twitter followers - 156, Tweet impressions - 22.0K, - Likes - 461, Retweets - 151
