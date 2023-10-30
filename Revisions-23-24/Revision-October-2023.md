@@ -47,6 +47,14 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Blast from the past - 12 month evergreen - Nov 8 2023 - Nov 7 2024
 * Decred’s Blockchain Mining Revolution – Moving Blockchain - 6 month evergreen - Nov 10 2023 - May 8 2024
 * Removing Centralisation from Crypto - 6 month evergreen - Nov 17 2023 - May 15 2024
+* Firo 101: Understanding the Firo Ecosystem - 12 month evergreen - Nov 17 2023 - Nov 16 2024
+* Buying decred is like hitting the bullseye - 12 month evergreen - Nov 18 2023 - Nov 17 2024
+* Bison Relay upgrades to version 0.19 - 1 month evergreen - Nov 19 - Dec 19 2023
+* Firo's Network Layer Privacy: Dandelion++ Explained - 12 month evergreen - Nov 19 2023 - Nov 18 2024
+* Unlimited Potential - 12 month evergreen - Nov 22 2023 - Nov 21 2024
+* Privacy Matters: Why Financial Privacy Is Essential in Today's  - 12 month evergreen - Nov 23 2023 - Nov 22 2024
+* SocialFi and Security - 6 month evergreen - Nov 23 2023 - May 21 2024
+* The best cryptocurrencies to hold when exchanging for Decred? - 12 month evergreen - Nov 27 2023 - Nov 26 2024
 * 
 
 ## Community Inports - Decred
