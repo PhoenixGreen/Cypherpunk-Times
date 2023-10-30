@@ -55,6 +55,9 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Privacy Matters: Why Financial Privacy Is Essential in Today's  - 12 month evergreen - Nov 23 2023 - Nov 22 2024
 * SocialFi and Security - 6 month evergreen - Nov 23 2023 - May 21 2024
 * The best cryptocurrencies to hold when exchanging for Decred? - 12 month evergreen - Nov 27 2023 - Nov 26 2024
+* Helsing: Private Masternode Staking Explained - 12 month evergreen - Nov 28 2023 - Nov 27 2024
+* What utility does Decred have? - 12 month evergreen - Nov 28 2023 - Nov 27 2024
+* What’s the best way to hold Decred - Q&A Sessions - 12 month evergreen - Nov 29 2023 - Nov 28 2024
 * 
 
 ## Community Inports - Decred
