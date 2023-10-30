@@ -37,6 +37,9 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* How Firo's core team is funded - 12 month evergreen - Nov 1 2023 - Oct 31 2024
+* Social Media Data Collection, Does It Matter? - 12 month evergreen - Nov 1 2023 - Oct 31 2024
+* AtomicSwap refunds in DCRDEX - 12 month evergreen - Nov 1 2023 - Oct 31 2024
 * 
 
 ## Community Inports - Decred
