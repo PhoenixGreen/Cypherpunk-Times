@@ -40,6 +40,11 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * How Firo's core team is funded - 12 month evergreen - Nov 1 2023 - Oct 31 2024
 * Social Media Data Collection, Does It Matter? - 12 month evergreen - Nov 1 2023 - Oct 31 2024
 * AtomicSwap refunds in DCRDEX - 12 month evergreen - Nov 1 2023 - Oct 31 2024
+* Cryptocurrency and Environmental Concerns: The Road to - 12 month evergreen - Oct 31 2023 - Oct 30 2024
+* Upgrading DCRDEX standalone version - 12 month evergreen - Nov 5 2023 - Nov 4 2024
+* Stay Private, Stay Secure: FIRO's Spark Addresses - - 12 month evergreen - Nov 5 2023 - Nov 4 2024
+* Privacy matters! A features comparison - 12 month evergreen - Nov 6 2023 - Nov 5 2024
+* Blast from the past - 12 month evergreen - Nov 8 2023 - Nov 7 2024
 * 
 
 ## Community Inports - Decred
