@@ -12,6 +12,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 * @decredsociety twitter followers - 967, Tweet impressions - 0.0K, Likes - 000, Retweets - 00
 * @decredmagazine twitter followers - 481, Tweet impressions - 0.0K, - Likes - 000, Retweets - 000
 * @cypherpunktimes twitter followers - 127, Tweet impressions - 0.0K, - Likes - 000, Retweets - 000
+* Community Posts: ZCash - 0, Firo - 0, Decred - 0, Other crypto projects - 0,
 
 
 # All Platforms for this publication:
@@ -39,7 +40,7 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * 
 
-## Community Inports - Decred
+## Community Imports - Decred
 Reporting structure: Content date - Title - Link - Editor work
 * 
 
