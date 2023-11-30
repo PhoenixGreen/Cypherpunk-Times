@@ -32,8 +32,8 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 * Creator onboarding - ??
 * Website edits and admin - ??
 
-## Social Media Campaigns 
-Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+## Social Media Posts 
+Reporting Structure: Post Title – link
 * 
 
 ## Community Imports - Decred
