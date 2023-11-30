@@ -5,10 +5,9 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Total number of articles on Cypherpunk Time -  000
 * Newsletter subscribers - 00
 * New Cypherpunk Times Posts and Newsletters sent - 00
-* Social media posts - 00
 * Social media followers across all platforms and accounts - 0000
-* @decredsociety twitter followers - 967, Tweet impressions - 0.0K, Likes - 000, Retweets - 00
-* @cypherpunktimes twitter followers - 127, Tweet impressions - 0.0K, - Likes - 000, Retweets - 000
+* @decredsociety twitter followers - 967, posts - 00, Tweet impressions - 0.0K, Likes - 000, Retweets - 00
+* @cypherpunktimes twitter followers - 127, posts - 00, Tweet impressions - 0.0K, - Likes - 000, Retweets - 000
 * Community Posts: ZCash - 0, Firo - 0, Decred - 0, Other crypto projects - 0,
 
 
