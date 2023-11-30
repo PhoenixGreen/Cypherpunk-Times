@@ -6,8 +6,8 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Newsletter subscribers - 112
 * New Cypherpunk Times Posts and Newsletters sent - 23
 * Social media followers across all platforms and accounts - 1181
-* @decredsociety twitter followers - 985, posts - 16 Tweet impressions - 17.1K, Likes - 350, Retweets - 51, comments - 51
-* @cypherpunktimes twitter followers - 196, posts - 154 Tweet impressions - 19.3K, - Likes - 439, Retweets - 107, comments - 88
+* @decredsociety twitter followers - 985, posts - 16, Tweet impressions - 17.1K, Likes - 350, Retweets - 51, comments - 51
+* @cypherpunktimes twitter followers - 196, posts - 154, Tweet impressions - 19.3K, - Likes - 439, Retweets - 107, comments - 88
 * Community Posts: Firo - 5, Decred - 7, Other crypto projects / news - 11
 
 
