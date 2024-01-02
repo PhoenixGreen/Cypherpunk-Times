@@ -54,7 +54,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 * Dec 12, 2023 - Bull Market? Maybe, but you have to prepare! - https://www.cypherpunktimes.com/bull-market-maybe-but-you-have-to-prepare/
 * Dec 16, 2023 - More than 300 memecoins emerge after Elon Musk curses advertisers - https://www.cypherpunktimes.com/more-than-300-memecoins-emerge-after-elon-musk-curses-advertisers/
 * Dec 22, 2023 - Cypherpunk talk with Michael from the Zcash community! - https://www.cypherpunktimes.com/cypherpunk-talk-with-ernesto-from-the-dash-community-2/
-* Dec 31, 2023 - Decred vs Polkadot: - https://www.cypherpunktimes.com/decred-vs-polkadot/
+* Dec 31, 2023 - Decred vs Polkadot: - https://www.cypherpunktimes.com/decred-vs-polkadot/ ???(This article was published on the 31st Decemebr but needed further review)
 * 
 
 # Blockchain Jew - SubContractor Work:
