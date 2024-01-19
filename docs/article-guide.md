@@ -36,6 +36,6 @@ Tier 3 articles will only be accepted if they dissect the mainstream narrative t
 * Crypto news 
 * Crypto hacks
 * Exchange hacks
-* Government policies and regulations
+* Government laws, policies and regulations
 * Traditional finance 
 
