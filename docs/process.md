@@ -4,19 +4,19 @@ created_utc: 2023-12-28
 updated_utc: 2024-01-29
 ---
 
-# Writing Process
+# Writing process
 
 (Third process draft proposed 2024-01-28)
 
 
-## Cypherpunk Times Writing Process
+## Cypherpunk Times writing process
 
 Cypherpunk Times has implemented the following process with the aim of building a writing culture that seeks to produce engaging, high-quality content. To achieve this, we’ve identified key areas that need to be address. Including reducing article churn, improving our review process and connecting with the wider community.
 
 New writers aiming to join the team or wanting to submit articles to the platform, should also follow the below steps. We are constantly looking for new talented writers, but before joining the team, the expectation is that you’ll demonstrate by doing and become an active member of the writer's channel.
 
 
-## Useful Documents
+## Useful documents
 
 * Cypherpunk Time Articles repo — [https://github.com/PhoenixGreen/Cypherpunktimes-articles]
 * Cypherpunk Times Article Guide — [https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/article-guide.md]
@@ -32,7 +32,7 @@ New writers aiming to join the team or wanting to submit articles to the platfor
 - Stage 4: Social media
 
 
-## Writing process In-depth
+## Writing process in-depth
 
 
 ### Stage 1: Discussion and planning
@@ -50,7 +50,7 @@ Article discussion should include:
 If the article suggested is contentious or considered outside the scope of the publication, it will need a combined vote of +2 or more to be cleared to be written.
 
 
-### Stage 2: Create Article
+### Stage 2: Create article
 
 Using the developments from stage one, create your article to the outlined specification. Criteria to consider:
 
@@ -80,7 +80,7 @@ What should reviewers be checking for?
 * Does the article have a suitable cypherpunk tone?
 
 
-### Stage 4: Social Media
+### Stage 4: Social media
 
 Once published, the writer creates social media posts and shares links on the “DCR Social Media” channel on Matrix. This gives the wider community an opportunity to engage with the article, adding comments, likes and retweets etc.
 
