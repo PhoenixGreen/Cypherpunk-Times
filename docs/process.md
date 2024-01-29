@@ -18,18 +18,20 @@ New writers aiming to join the team or wanting to submit articles to the platfor
 
 ## Useful documents
 
-* Cypherpunk Time Articles repo — [https://github.com/PhoenixGreen/Cypherpunktimes-articles]
-* Cypherpunk Times Article Guide — [https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/article-guide.md]
-* How we use GitHub for the writing process — [https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/github.md]
-* GitHub video demonstration — [https://youtu.be/AdrjFYXWpWw]
+* [High-level process overview](https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/process.md) (this doc)
+* [Content guidelines](https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/article-guide.md)
+* [How we use GitHub for the writing/reviewing process](https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/github.md)
+* [Active reviews](https://github.com/PhoenixGreen/Cypherpunktimes-articles/pulls)
+* [Completed reviews](https://github.com/PhoenixGreen/Cypherpunktimes-articles/pulls?q=is%3Apr+is%3Aclosed)
+* [Video demonstration of using GitHub](https://youtu.be/AdrjFYXWpWw)
 
 
 ## Writing process overview
 
-- Stage 1: Discussion and planning
-- Stage 2: Create article
-- Stage 3: Review
-- Stage 4: Social media
+- [Stage 1: Discussion and planning](#stage-1-discussion-and-planning)
+- [Stage 2: Create article](#stage-2-create-article)
+- [Stage 3: Review](#stage-3-review)
+- [Stage 4: Social media](#stage-4-social-media)
 
 
 ## Writing process in-depth
