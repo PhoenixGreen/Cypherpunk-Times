@@ -1,7 +1,7 @@
 ---
 author: phoenixgreen
 created_utc: 2023-12-28
-updated_utc: 2024-01-28
+updated_utc: 2024-01-29
 ---
 
 # Writing Process
@@ -17,7 +17,7 @@ New writers aiming to join the team or wanting to submit articles to the platfor
 ## Useful Documents:
 * Cypherpunk Time Articles repo — [https://github.com/PhoenixGreen/Cypherpunktimes-articles]
 * Cypherpunk Times Article Guide — [https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/article-guide.md]
-* How we use GitHub for the writing process — [https://github.com/PhoenixGreen/Cypherpunktimes-articles/blob/main/README.md]
+* How we use GitHub for the writing process — [https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/github.md]
 * GitHub video demonstration — [https://youtu.be/AdrjFYXWpWw]
 
 ## Writing process overview:
