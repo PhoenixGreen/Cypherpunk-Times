@@ -11,7 +11,7 @@ updated_utc: 2024-01-29
 
 ## Cypherpunk Times writing process
 
-Cypherpunk Times has implemented the following process with the aim of building a writing culture that seeks to produce engaging, high-quality content. To achieve this, we’ve identified key areas that need to be address. Including reducing article churn; reducing the use of ai text generation; improving our review process; and connecting with the wider community.
+Cypherpunk Times has implemented the following process with the aim of building a writing culture that seeks to produce engaging, high-quality content. To achieve this, we’ve identified key areas that need to be address. Including reducing article churn; reducing the use of AI text generation; improving our review process; and connecting with the wider community.
 
 New writers aiming to join the team or wanting to submit articles to the platform, should also follow the below steps. We are constantly looking for new talented writers, but before joining the team, the expectation is that you’ll demonstrate by doing and become an active member of the writer's channel.
 
@@ -73,11 +73,13 @@ After writing the article, Share the GitHub pull request link to your article fo
 This gives community members and other writers the chance to have a read of the article and add constructive criticism. Once reviewed, the author makes the necessary changes ready for publishing. This might need two rounds of review if the edit is considerable.
 
 **Pre-review checks**
+
 * The first reviewer should copy and paste the article into a tool that verifies for plagiarism and AI-generated content. One tool for this check is https://www.zerogpt.com/
 * Content score — If the score is lower than 25%, the article is rejected for publication and the review process is non-applicable.
 * If the article passes these checks, the reviewer should add the score as a comment at the top of the article, showing this process is complete.
 
 **Reviewer checks**
+
 What should reviewers be checking for?
 
 * Structural flow, consistency, and topic focus
@@ -103,4 +105,4 @@ What social media content should writers create?
 
 ### Optional: TwitterSpace / Livestream
 
-To increase article engagement the write has the option to create a TwitterSpace / Livestream to discuss the article with the community. This is likely to get a lot more eyes on the article and encourage wider engagement from the community.
+To increase article engagement the writer has the option to create a Twitter Space / Livestream to discuss the article with the community. This is likely to get a lot more eyes on the article and encourage wider engagement from the community.
