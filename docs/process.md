@@ -93,7 +93,7 @@ What should reviewers be checking for?
 
 ### Stage 4: Social media
 
-Once published, the writer creates social media posts and shares links on the “DCR Social Media” and "DCR Writers" channels on Matrix. This gives the wider community an opportunity to engage with the article, adding comments, likes and retweets etc.
+Once published, the writer creates social media posts and shares links on the “DCR Social Media” channel on Matrix. This gives the wider community an opportunity to engage with the article, adding comments, likes and retweets etc.
 
 What social media content should writers create?
 
