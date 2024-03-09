@@ -40,7 +40,7 @@ New writers aiming to join the team or wanting to submit articles to the platfor
 
 ### Stage 1: Discussion and planning
 
-Writers propose an article to be written using the “Cypherpunk Times Articles” GitHub repo. Copy the link for this new document to the writer's channel on Matrix, to include the community in the discussions.
+Writers propose an article to be written using the “Cypherpunk Times Articles” GitHub repo. Copy the link for this new document to the writer's channel on Matrix, to include the community in the discussions. Writers should also aim to write specific Decred content at a ratio of 2:1 (for every 2 treasury funded articles written, at least one should be Decred specific).
 
 Article discussion should include:
 
