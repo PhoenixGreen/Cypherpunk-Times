@@ -97,7 +97,7 @@ Once published, the writer creates social media posts and shares links on the �
 
 What social media content should writers create?
 
-* Twitter — Initial tweet from writers' Twitter account, this could be done as a single post or thread. Don't forget to include the link.
+* Twitter — Initial tweet from @cypherpunktimes' Twitter account, this could be done as a single post or thread. Don't forget to include the link.
 * Reddit — Post article excerpt and link to Decred’s reddit page to get more interaction on this platform
 * Bison Relay — Post the full article to the Bison Relay News feed.
 * (Optional) Facebook, Instagram, and TikTok — have generally been low engagement platforms for Decred, but this could also be an opportunity to increase engagement on these platforms
