@@ -35,7 +35,7 @@ The cypherpunktimes.com admin is responsible for:
 * Publishing finished articles
 * Operating the cypherpunktimes Twitter account (announcing new articles etc.)
 
-Maximum payment for this work 2hrs per week
+Maximum payment for this work 10hrs per month
 
 Please note, the above payment structures are only applicable if cypherpunktimes.com has an active proposal, else this document is null in void.
 
