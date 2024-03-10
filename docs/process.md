@@ -1,12 +1,12 @@
 ---
 author: phoenixgreen
 created_utc: 2023-12-28
-updated_utc: 2024-01-29
+updated_utc: 2024-03-10
 ---
 
 # Writing process
 
-(Third process draft proposed 2024-01-28)
+*This is the fourth process draft proposed 2024-03-10.*
 
 
 ## Cypherpunk Times writing process
@@ -103,6 +103,7 @@ What social media content should writers create?
 * (Optional) Facebook, Instagram, and TikTok — have generally been low engagement platforms for Decred, but this could also be an opportunity to increase engagement on these platforms
 * Comments — Where applicable, start the discussion in the comment section (Cypherpunk Times, Bison Relay, Reddit). This could be a good opportunity to ask questions, e.g. What would you do …?
 
-### Optional: TwitterSpace / Livestream
+
+### Optional: Twitter Space / Livestream
 
 To increase article engagement the writer has the option to create a Twitter Space / Livestream to discuss the article with the community. This is likely to get a lot more eyes on the article and encourage wider engagement from the community.
