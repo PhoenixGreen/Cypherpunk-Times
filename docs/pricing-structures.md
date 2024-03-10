@@ -30,8 +30,10 @@ Maximum payment for article review checks = 2 to 4hrs
 
 The cypherpunktimes.com admin is responsible for: 
 * Maintaining the publication
-* Article Pre-flight checks
+* Curating the process/policy documents (including this document)
+* Article Pre-flight checks - final proof read, formatting, tags, URL check, Excerpt check, Template check
 * Publishing finished articles
+* Operating the cypherpunktimes Twitter account (announcing new articles etc.)
 
 Maximum payment for this work 2hrs per week
 
