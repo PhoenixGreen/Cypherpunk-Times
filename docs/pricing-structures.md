@@ -14,9 +14,13 @@ As part of this process, and to allow for more time on each stage, we are limiti
 An approved article now has the associated stages and hourly rate applied to it:
 
 Stage 1: Discussion and planning = 1hr
+
 Stage 2: Create article = 5hrs
+
 Stage 3: Review = 1hr
+
 Stage 4: Social media = 1hr
+
 Optional Stage: TwitterSpace / Livestream = 3hrs
 
 ## Official reviewer pricing
@@ -24,6 +28,7 @@ Optional Stage: TwitterSpace / Livestream = 3hrs
 As detailed in the process document (https://github.com/PhoenixGreen/Cypherpunk-Times/blob/main/docs/process.md) reviewers are now responsible for doing quality checks and giving constructive feedback for possible improvements. The aim of the review process is that each article will have one or more reviewers conduct planning, pre-review and review checks.
 
 Maximum payment for planning and pre-review checks = 1 to 2hr
+
 Maximum payment for article review checks = 2 to 4hrs
 
 ## Platform admin pricing
